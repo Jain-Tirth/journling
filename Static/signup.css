@@ -8,7 +8,7 @@
 }
 
 .background {
-  background: url("Static\jorunalling_background.jpg");
+  background: url("../Static/jorunalling_background.jpg");
   background-size: cover;
   background-position: center;
   min-height: 100vh; 
